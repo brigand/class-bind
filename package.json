@@ -1,6 +1,6 @@
 {
   "name": "class-bind",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "bind-on-access for class methods, using decorators or a simple function",
   "main": "lib/index.js",
   "directories": {
